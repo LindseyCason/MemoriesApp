@@ -1,0 +1,24 @@
+//Server Side
+
+Routes
+    server/routes/posts.js
+    add route, import from controller
+Controllers
+    server/controllers/posts.js
+    create function for action
+
+//Client Side
+
+Api
+    client/src/api/index.js
+    add your api request, remember what you used as your route ie posts/:id/likePost etc
+Actions
+    client/src/actions/posts.js
+    create function for action
+Reducers
+    client/src/reducers/posts.js
+Component
+    client/src/components/Posts/Post/Post.js
+    implement the dispatch functionality, import dispatch
+
+
