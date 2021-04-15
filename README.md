@@ -1,4 +1,6 @@
 # Memories-App
+##
+A full stack web application using ReactJS, MongoDB, NodeJS (Express), and styled with Material UI.
 
 Client Side Code: https://github.com/LindseyCason/MemoriesApp-Client.git
 ##
